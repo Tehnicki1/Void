@@ -11,3 +11,4 @@ Void's a string remover/cleaner for process hacker. This is a better alternative
 Base/Scanner - https://github.com/LvStrnggg/ss/
 Inspiration - https://youtu.be/MqjaY_Yp_WM
 
+![Screenshot_597](https://github.com/user-attachments/assets/0301cd3c-618a-4d3b-934f-fe3e9f40fa75)
